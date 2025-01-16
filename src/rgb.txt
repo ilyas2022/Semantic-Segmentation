@@ -1,0 +1,4 @@
+rgb(107, 142, 35) -> arboles
+rgb(128, 64, 128) -> carretera
+rgb(70, 70, 70) -> edificios
+rgb(70, 130, 180) -> cielo
